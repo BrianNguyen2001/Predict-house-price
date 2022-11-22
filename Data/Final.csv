@@ -940,7 +940,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 1.17 tỷ,"Xã Hòa Phú, Huyện Tuy Phong, Bình Thuận",75 m²,--,--,--,0
 2 tỷ,"Xã Hòa Phú, Huyện Tuy Phong, Bình Thuận",76 m²,--,--,--,0
 899 triệu,"Đường Hùng Vương, Xã Phú Lộc, Huyện Krông Năng, Đắk Lắk",132 m²,22 m,6 m,Bắc,1
-7.5 tỷ,"Đường Máng Nước, An Đồng, An Dương, HP",90 m²,--,4.5 m,--,0
+7.5 tỷ,"Đường Máng Nước, An Đồng, An Dương, Hải Phòng",90 m²,--,4.5 m,--,0
 3 tỷ,"Đường Võ Nguyên Giáp, Xã Vĩnh Ngọc, Huyện Đông Anh, TP. Hà Nội",55 m²,--,--,--,0
 519 triệu,"Xã Phước Vinh, Huyện Châu Thành, Tây Ninh",300 m²,50 m,6 m,--,1
 899 triệu,"Hùng Vương, Xã Phú Lộc, Huyện Krông Năng, Đắk Lắk",132 m²,--,--,--,0
@@ -1171,7 +1171,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 2.2 tỷ,"Đường số 8, Phường Phước Long B, TP. Thủ Đức, TP. Hồ Chí Minh",75 m²,15 m,5 m,--,0
 2.5 tỷ,"Xã Phiêng Luông, Huyện Mộc Châu, Sơn La",880 m²,--,--,Nam,0
 1.39 tỷ,"Đường liên xã, Nga My, Phú Bình, Thái Nguyên",477 m²,23 m,26 m,--,0
-3.5 tỷ,"Đường Anh Dũng 5, Anh Dũng, Dương Kinh, HP",100 m²,20 m,5 m,--,0
+3.5 tỷ,"Đường Anh Dũng 5, Anh Dũng, Dương Kinh, Hải Phòng",100 m²,20 m,5 m,--,0
 600 triệu,"Xã Phan, Huyện Dương Minh Châu, Tây Ninh",150 m²,--,--,--,0
 200 triệu,"Đường Nguyễn Khang, Trung Hòa, Cầu Giấy, HN",250 m²,25 m,10 m,--,0
 739 triệu,"Xã Tân Phúc, Huyện Ân Thi, Hưng Yên",80 m²,16 m,5 m,Đ.Nam,0
@@ -1282,7 +1282,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 2.2 tỷ,"Đường Nguyễn Lương Bằng, Phường Hòa Minh, Quận Liên Chiểu, TP. Đà Nẵng",100 m²,20 m,5 m,Đông,1
 16 tỷ,"Đường Phú An, Phú An, Bến Cát, Bình Dương","1,121 m²",53 m,21 m,--,0
 50.49 tỷ,"Đường Thạnh Xuân 25, Thạnh Xuân, Quận 12, HCM","1,900 m²",47 m,42 m,--,0
-3.25 tỷ,"Đường Thống Nhất, Đông Hòa, TP. Dĩ An, BD",135 m²,22.6 m,6 m,--,0
+3.25 tỷ,"Đường Thống Nhất, Đông Hòa, TP. Dĩ An, Bình Dương",135 m²,22.6 m,6 m,--,0
 1.5 tỷ,"Đường ĐT 158, Y Tý, Bát Xát, Lào Cai",424 m²,--,--,--,0
 899 triệu,"Đường Hùng Vương, Xã Phú Lộc, Huyện Krông Năng, Đắk Lắk",132 m²,22 m,6 m,--,1
 600 triệu,"Xã Bà Điểm, Huyện Hóc Môn, TP. Hồ Chí Minh",150 m²,--,--,--,1
@@ -2142,7 +2142,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 2.9 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP Hải Phòng",134 m²,19 m,8 m,--,0
 380 triệu,"Xã Điện Thọ, Thị xã Điện Bàn, Quảng Nam",150 m²,30 m,5 m,--,1
 1.19 tỷ,"Đường Hải Phòng, Phương Hòa Nghĩa, Quận Dương Kinh, TP Hải Phòng",450 m²,30 m,15 m,--,0
-2.9 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. HP",134 m²,19 m,8 m,--,0
+2.9 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. Hải Phòng",134 m²,19 m,8 m,--,0
 280 triệu,"Đường TL 623B, Xã Nghĩa Lâm, Huyện Tư Nghĩa, Quảng Ngãi",120 m²,20 m,5 m,Đông,1
 5.5 tỷ,"Đường ĐT 877, xã Vĩnh Hựu, Huyện Gò Công Tây, tỉnh Tiền Giang","1,989 m²",--,--,--,0
 850 triệu,"Xã Hiếu Tử, Tiểu Cần, Trà Vinh",250 m²,--,--,--,0
@@ -2155,7 +2155,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 1.25 tỷ,"Đường Đồng Khởi, Thị trấn Diên Khánh, Huyện Diên Khánh, Khánh Hòa",120 m²,20 m,5.4 m,--,0
 900 triệu,"Xã Đam Bri, TP Bảo Lộc, Lâm Đồng",110 m²,--,--,--,0
 2 tỷ,"Đường ĐT 76, Xã Đại Hưng, Huyện Mỹ Đức, TP. Hà Nội",90 m²,10 m,9 m,--,0
-3.6 tỷ,"Đường 351, thị trấn An Dương, Huyện An Dương, TP. HP",95 m²,--,--,--,0
+3.6 tỷ,"Đường 351, thị trấn An Dương, Huyện An Dương, TP. Hải Phòng",95 m²,--,--,--,0
 900 triệu,"Đường 29, Thị trấn Krông Năng, Huyện Krông Năng, Đăk Lăk",132 m²,23 m,6 m,--,0
 1.27 tỷ,"Đăk snao2, Xã Quảng Sơn, Huyện Đắk Glong, Đắk Nông","1,380 m²",--,--,--,0
 899 triệu,"Đường Hùng Vương, Xã Phú Lộc, Huyện Krong Năng, Đăk Lăk",132 m²,22 m,6 m,--,0
@@ -2706,7 +2706,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 1.4 tỷ,"Đường 2 Diên Thạnh, Diên Khánh, Khánh Hòa",107 m²,10 m,10 m,--,0
 4.1 tỷ,"Đường F Phước Long, Nha Trang, Khánh Hòa",72 m²,16 m,4.5 m,--,0
 400 triệu,"Đường 833B, Xã Long Cang, Huyện Cần Đước, Long An",120 m²,17 m,8 m,--,1
-2.2 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. HP",150 m²,17 m,9 m,--,0
+2.2 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. Hải Phòng",150 m²,17 m,9 m,--,0
 22.5 tỷ,"Hẻm 520 Trần Quốc Toản, Phường An Bình, TP. Biên Hòa, Đồng Nai","1,047 m²",25 m,45 m,--,1
 490 triệu,"Phường Phú Thịnh, Thị xã Bình Long, Bình Phước",800 m²,40 m,20 m,--,1
 22 tỷ,"Đường Tân Mỹ, Xã Tân Mỹ, Huyện Bắc Tân Uyên, Bình Dương","2,396 m²",--,--,--,0
@@ -2721,7 +2721,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 2.32 tỷ,"Xã Xuân Nộn, Huyện Đông Anh, TP. Hà Nội",145 m²,29 m,5 m,Đ.Nam,0
 1.2 tỷ,"Đường 20, xã Tân Lạc, Huyện Bảo Lâm, Lâm Đồng",174 m²,--,--,--,0
 3.3 tỷ,"Trảng Trai, Xã Tân Hòa, Huyện Tân Châu, Tây Ninh","5,450 m²",74 m,80 m,Nam,1
-3.6 tỷ,"Đường Mạc Đăng Doanh, Phường Đa Phúc, Quận Dương Kinh, TP. HP",75 m²,17 m,5 m,--,0
+3.6 tỷ,"Đường Mạc Đăng Doanh, Phường Đa Phúc, Quận Dương Kinh, TP. Hải Phòng",75 m²,17 m,5 m,--,0
 1.12 tỷ,"Xã Lộc Nga, TP. Bảo Lộc, Lâm Đồng",160 m²,5 m,32 m,--,1
 1.5 tỷ,"Xã Đức Hòa Đông, Huyện Đức Hòa, Long An",100 m²,18 m,4.98 m,--,1
 3.7 tỷ,"Lê Văn Việt, Phường Tăng Nhơn Phú A, TP. Thủ Đức, TP. Hồ Chí Minh",80 m²,16 m,5.5 m,--,1
@@ -3060,7 +3060,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 12.6 tỷ,"Đường Nguyễn Văn Lộc, Quang Trung, Quận Hà Đông, TP. HN",98 m²,20 m,4.5 m,--,0
 5.75 tỷ,"Đường Phú Lãm, Phú Lãm, Quận Hà Đông, TP. HN",50 m²,12 m,4 m,--,0
 2.95 tỷ,"Đường Lê Trọng Tấn, La Khê, Quận Hà Đông, TP. HN",52 m²,3.5 m,15 m,--,0
-2.2 tỷ,"Đường Hợp Hòa, Phường Anh Dũng, Quận Dương King, TP. HP",65 m²,15 m,5 m,--,0
+2.2 tỷ,"Đường Hợp Hòa, Phường Anh Dũng, Quận Dương King, TP. Hải Phòng",65 m²,15 m,5 m,--,0
 3.24 tỷ,"Đường Trà Khê, Phường Anh Dũng, Quận Dương Kinh, TP. Hải Phòng",180 m²,19 m,9 m,--,0
 450 triệu,"Đường 10, Xã Tân Viên, huyện An Lão, TP. Hải Phòng",68 m²,12 m,6 m,--,0
 950 triệu,"Đường Quốc lộ 1A, Xã Vĩnh Phương, TP Nha Trang, Khánh Hòa","5,400 m²",54 m,100 m,--,0
@@ -3416,7 +3416,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 280 triệu,"Tl623B, Xã Nghĩa Lâm, Huyện Tư Nghĩa, Quảng Ngãi",120 m²,20 m,4.99 m,Đông,0
 280 triệu,"DT623B , Xã Nghĩa Lâm, Huyện Tư Nghĩa, Quảng Ngãi",124 m²,25 m,5 m,Đ.Nam,1
 1.9 tỷ,"Đường Thạnh Đức, xã Thạnh Đức, huyện Bến Lức, Long An",703 m²,56 m,8.8 m,--,0
-2.35 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. HP",155 m²,17 m,8 m,--,0
+2.35 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. Hải Phòng",155 m²,17 m,8 m,--,0
 5.2 tỷ,"Đường Quốc lộ 6, Phường Yên Nghĩa, Quận Hà Đông, TP. HN",50 m²,10 m,5 m,--,0
 7.2 tỷ,"Đường Cổ Linh, Phường Long Biên, Quận Long Biên, TP. HN",72 m²,12 m,6 m,--,0
 935 triệu,"Thôn 2, Xã Vạn Phúc, Huyện Thanh Trì, TP. Hà Nội",35 m²,--,--,--,0
@@ -3438,7 +3438,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 4.1 tỷ,"Phường Hòa Xuân, Quận Cẩm Lệ, TP. Đà Nẵng",100 m²,--,--,T.Nam,1
 800 triệu,"Ql1A, Xã Lộc Điền, Huyện Phú Lộc, Thừa Thiên Huế",160 m²,20 m,8 m,Nam,1
 450 triệu,"Liên Ấp 2-6, Xã Vĩnh Lộc A, Huyện Bình Chánh, TP. Hồ Chí Minh",48 m²,12 m,4 m,--,1
-1.9 tỷ,"Đường Thanh Niên, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. HP",100 m²,20 m,5 m,--,0
+1.9 tỷ,"Đường Thanh Niên, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. Hải Phòng",100 m²,20 m,5 m,--,0
 980 triệu,"Xã Phước Đông, Huyện Gò Dầu, Tây Ninh",125 m²,25 m,5 m,--,1
 2 tỷ,"Tỉnh Lộ 11B, Xã Phong Xuân, Huyện Phong Điền, Thừa Thiên Huế",286 m²,58 m,5 m,Đ.Bắc,1
 4.2 tỷ,"Đường Hoàng Quốc Việt, Xã Thủy Thanh, Thị xã Hương Thủy, Thừa Thiên Huế",140 m²,20 m,7 m,Đ.Bắc,1
@@ -3770,7 +3770,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 6.1 tỷ,"Đường Long Sơn, Xã Long Sơn, Huyện Cần Đước, Long An","1,438 m²",--,--,--,0
 1.1 tỷ,"Đường Âu Cơ, Xã Tân Lạc, Huyện Bảo Lâm, Lâm Đồng",150 m²,5 m,30 m,--,1
 3.8 tỷ,"Đường Quốc lộ 80, xã Hòa Thành, huyện Lai Vung, Đồng Tháp",990 m²,--,--,--,0
-15 tỷ,"Đường Nguyễn Thị Minh Khai, Phường 8, Tp. Vũng Tàu, BR-VT",118 m²,23 m,5 m,--,0
+15 tỷ,"Đường Nguyễn Thị Minh Khai, Phường 8, Tp. Vũng Tàu, Bà Rịa-Vũng Tàu",118 m²,23 m,5 m,--,0
 1.5 tỷ,"Xã Thạnh Phú, Huyện Vĩnh Cửu, Đồng Nai",100 m²,20 m,5 m,--,0
 750 triệu,"Đường Hùng Vương, Xã Phú Lộc, Huyện Krong Năng, Đăk Lăk",140 m²,23 m,6 m,--,0
 3.2 tỷ,"Đường ngô gia tự Đức Giang, Long Biên, Hà Nội",28 m²,6 m,5 m,--,0
@@ -3880,7 +3880,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 3.5 tỷ,"Kênh 10, Xã Tân Nhựt, Huyện Bình Chánh, TP. Hồ Chí Minh","1,000 m²",--,--,--,1
 6.8 tỷ,"Đường Quốc Lộ 3, Thị Trấn Sóc Sơn, Huyện Sóc Sơn, TP. HN",523 m²,33 m,13 m,--,0
 1.5 tỷ,"Đường Sông Xoài Châu Pha, Xã Châu Pha, Thị xã Phú Mỹ, Bà Rịa - Vũng Tàu",506 m²,24.99 m,19.99 m,--,1
-2.2 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. HP",126 m²,17 m,9 m,--,0
+2.2 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. Hải Phòng",126 m²,17 m,9 m,--,0
 1.35 tỷ,"Đường Tỉnh Lộ 767 Vĩnh Tân, Vĩnh Cửu, Đồng Nai","1,000 m²",--,--,--,0
 2 tỷ,"Đường 43, Thị trấn Mộc Châu, Huyện Mộc Châu, Sơn La",580 m²,--,--,--,0
 1.72 tỷ,"Liên Phường, Phường Phước Long B, TP. Thủ Đức, TP. Hồ Chí Minh",85 m²,--,--,--,1
@@ -4385,7 +4385,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 2.2 tỷ,"Phường An Phú, TP. Thuận An, Bình Dương",80 m²,20 m,4 m,Nam,1
 1.9 tỷ,"Đường Thanh Niên, Phường Ngọc Xuyên, Quận Đồ Sơn, TP Hải Phòng",100 m²,20 m,5 m,--,0
 6.5 tỷ,"Đường Giảng Võ, Phường Giảng Võ, Quận Ba Đình, TP Hà Nội",35 m²,7 m,5 m,--,0
-2.5 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. HP",144 m²,18 m,8 m,--,0
+2.5 tỷ,"Đường Suối Rồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP. Hải Phòng",144 m²,18 m,8 m,--,0
 1.1 tỷ,"Đường Trương Định, Thị trấn Cần Đước, Huyện Cần Đước, Long An",80.50 m²,16 m,5 m,Đ.Bắc,1
 500 triệu,"Đường 20 Tân Lạc, Bảo Lâm, Lâm Đồng",363 m²,40 m,9 m,--,0
 1.87 tỷ,"Đường Đại Thắng Hòa Nghĩa, Dương Kinh, Hải Phòng",77 m²,15 m,4 m,--,0
@@ -4586,8 +4586,8 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 2.46 tỷ,"Nghĩa Phương, Phường Minh Đức, Quận Đồ Sơn, TP. Hải Phòng",105 m²,--,4.2 m,--,1
 540 triệu,"Bình Minh, Phường Minh Đức, Quận Đồ Sơn, TP. Hải Phòng",41 m²,--,--,--,0
 50 tỷ,"98 Sơn Mỹ, Xã Sơn Mỹ, Huyện Hàm Tân, Bình Thuận","8,700 m²",87 m,106 m,--,1
-21 tỷ,"Đường Phạm Văn Đồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP, HP",300 m²,16 m,5 m,--,0
-5.1 tỷ,"Đường Phạm Văn Đồng, Phường Anh Dũng, Quận Dương Kinh, TP. HP",100 m²,20 m,5 m,--,0
+21 tỷ,"Đường Phạm Văn Đồng, Phường Ngọc Xuyên, Quận Đồ Sơn, TP, Hải Phòng",300 m²,16 m,5 m,--,0
+5.1 tỷ,"Đường Phạm Văn Đồng, Phường Anh Dũng, Quận Dương Kinh, TP. Hải Phòng",100 m²,20 m,5 m,--,0
 899 triệu,"Hùng Vương, Thị trấn Krông Năng, Huyện Krông Năng, Đắk Lắk",132 m²,22 m,6 m,--,1
 599 triệu,"Đường ĐT 755, Xã Phước Sơn, Huyện Bù Đăng, Bình Phước",250 m²,50 m,5 m,--,0
 590 triệu,"Đường 879B, Phường 7, TP Mỹ Tho, Tiền Giang",105 m²,20 m,5 m,--,0
@@ -6365,7 +6365,7 @@ Price,Location,Spare,Length,Width,Direction,Amenities
 414 triệu,"Quốc lộ 13, Xã Lộc Thạnh, Huyện Lộc Ninh, Bình Phước",153 m²,30 m,5 m,--,1
 1.86 tỷ,"DT741, Xã Tân Hiệp, Huyện Phú Giáo, Bình Dương","1,000 m²",--,--,--,0
 1.8 tỷ,"DT741, Xã Tân Bình, Huyện Tân Uyên, Bình Dương","1,000 m²",--,--,--,0
-999 triệu,"363 Nguyễn hữu Thọ, Khuê Trung, �� N?ng",100 m²,20 m,5 m,Tây,0
+999 triệu,"363 Nguyễn hữu Thọ, Khuê Trung, Đà Nẵng",100 m²,20 m,5 m,Tây,0
 950 triệu,"Cư Suê, Xã Cư Suê, Huyện Cư M'gar, Đắk Lắk",250 m²,10 m,25 m,--,0
 890 triệu,"Tỉnh lộ 8, Xã Đức Lập Thượng, Huyện Đức Hòa, Long An",85 m²,16 m,5 m,--,1
 3.4 tỷ,"391 Quốc lộ 20, Xã Liên Hiệp, Huyện Đức Trọng, Lâm Đồng",507 m²,50 m,14 m,--,0
